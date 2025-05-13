@@ -23,9 +23,9 @@ This Python-based data analytics project examines e-commerce sales data from a s
 ├── e commerce sales.ipynb   # Main analysis notebook
 ├── README.md                # Project overview and instructions
 ├── requirements.txt         # Python dependencies
-└── data/                    # Raw or processed data files 
+└── data/ Contains the raw or processed data files used in the analysis.        # Raw or processed data files 
 
- # Install Dependencies
+# Install Dependencies
 pip install -r requirements.txt
 
 # Run the Notebook
@@ -37,11 +37,11 @@ jupyter notebook
 - Regional sales patterns
 - Customer behavior trends
 
-  # Sample Visualizations
+# Sample Visualizations
   - Time series of monthly sales
   - Heatmaps of sales by region
   -Bar charts of top-performing products
-  -Pie charts of customer segments (if applicable)
+  -Pie charts of customer segments 
 
   
 
